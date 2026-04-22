@@ -26,7 +26,7 @@
 import file-name=config.rsc
 ```
 
-<img width="505" height="72" alt="изображение" src="https://github.com/user-attachments/assets/5f6eb11b-15ad-4085-bdf8-0a2af6277a69" />
+<img width="505" height="72" alt="изображение" src="https://github.com/user-attachments/assets/5f6eb11b-15ad-4085-bdf8-0a2af6277a69" />\
 **Рисунок 5**
 
 Конфигурация удачно импортирована
