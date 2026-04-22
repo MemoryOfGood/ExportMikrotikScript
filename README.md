@@ -1,11 +1,15 @@
 # ExportMikrotikScript
+>[!TIP]
+> Сделанно на примере HQ-RTR, но также применяется для BR-RTR
 
-Подготавлиеваем ВМ 
+>[!Warning]
+> Обязательно добавьте и используйте третий адаптер "Только локальный"/"Host-only" для этого
+
+Подготавлиеваем ВМ, чтобы обязательно был адаптер "Только локальный"/"Host-only"
 <img width="377" height="407" alt="изображение" src="https://github.com/user-attachments/assets/d5101871-93a1-463b-860f-ac7f0a109886" />
 **Рисунок 1**
 
-Заходим в **Edit virtual machine settings** > **Network manager 3** > **Advanced**
-Запоминаем Mac-адрес
+Заходим в **Edit virtual machine settings** > **Network manager 3** > **Advanced** и запоминаем Mac-адрес
 <img width="330" height="523" alt="изображение" src="https://github.com/user-attachments/assets/040a0f67-83fe-4fe0-b220-f004b89f4ba5" />
 **Рисунок 2**
 
@@ -24,3 +28,5 @@ import file-name=config.rsc
 
 <img width="505" height="72" alt="изображение" src="https://github.com/user-attachments/assets/5f6eb11b-15ad-4085-bdf8-0a2af6277a69" />
 **Рисунок 5**
+
+Конфигурация удачно импортирована
